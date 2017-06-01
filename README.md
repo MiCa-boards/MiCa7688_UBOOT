@@ -1,11 +1,11 @@
-# linkit-smart-uboot
-This feeds holds the UBoot bootloader source code for the LinkIt Smart 7688 (Duo)
+# MiCa7688-uboot
+This feeds holds the UBoot bootloader source code for the MiCa7688
 
 # Compile
 
 Start by cloning the tree
 
-`git clone https://github.com/MediaTek-Labs/linkit-smart-uboot.git`
+`git clone https://github.com/emavap/MiCa7688_UBOOT.git`
 
 We need to install the cross toolchain required to build the source
 
